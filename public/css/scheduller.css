@@ -1,0 +1,37 @@
+#report{
+    overflow-x: scroll;
+}
+
+.overflow{
+    overflow-x: auto;
+    overflow-y: scroll;
+    margin: 30px;
+}
+
+.table th{
+    text-align: center;
+}
+
+.scheduller{
+    text-align: center;
+}
+.sending_time{
+    width: 10%;
+}
+
+.form-control, #scheduller_table{
+    text-align: center;
+}
+
+.scheduller_active{
+    width: 10%;
+}
+
+ .update-th, #bot_id{
+    width: 50px;
+    text-align: center;
+}
+
+.active{
+    width: 10%;
+}

@@ -1,0 +1,38 @@
+#main{
+    overflow-x: scroll;
+}
+
+.overflow{
+    overflow-x: auto;
+    overflow-y: scroll;
+    margin: 30px;
+}
+
+.table th{
+    text-align: center;
+}
+
+.main{
+    text-align: center;
+}
+
+.form-control,#bot-active-id{
+    text-align: center;
+}
+
+.active{
+    width: 10%;
+}
+
+.event-b{
+    width: 100px;
+}
+
+#bot_table, #telegram-id{
+    text-align: center;
+}
+
+#telegram-token{
+    width: 400px;
+    text-align: center;
+}

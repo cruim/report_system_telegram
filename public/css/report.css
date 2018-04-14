@@ -1,0 +1,30 @@
+#report{
+    overflow-x: scroll;
+}
+
+.overflow{
+    overflow-x: auto;
+    overflow-y: scroll;
+    margin: 30px;
+}
+
+.table th{
+    text-align: center;
+}
+
+.report{
+    text-align: center;
+}
+
+.form-control, #report_table{
+    text-align: center;
+}
+
+.report_active{
+    width: 10%;
+}
+
+#report-active-id, .update-th{
+    width: 50px;
+    text-align: center;
+}

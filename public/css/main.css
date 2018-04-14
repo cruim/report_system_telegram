@@ -1,0 +1,19 @@
+.menu-el{
+    padding: 5px;
+    width: 100%;
+}
+.menu{
+    width: 100%;
+    background: #f9fcff;
+    text-align: center;
+}
+body {
+    font-family: 'Lato';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+.navbar-brand img {
+    width: 30px;
+}

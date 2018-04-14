@@ -1,0 +1,3 @@
+1)Регистрация нового бота и вебхука - https://jqueryajaxphp.com/create-telegram-bot-api-using-laravel/
+2)Если бот не отвечает и/или в логах 400+ ответы сервера - закоментить весь метод вебхука и оставить только
+строку return response()->json(['success' => true]);

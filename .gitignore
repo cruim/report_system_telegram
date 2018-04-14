@@ -1,0 +1,7 @@
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea
+/public/storage
+/resources/views/auth/register.blade.php
